@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^login$ view/client/login.php [L]
+RewriteRule ^register$ view/client/register.php [L]
+RewriteRule ^order_list$ view/client/order_list.php [L]
+RewriteRule ^pay$ view/client/pay.php [L]

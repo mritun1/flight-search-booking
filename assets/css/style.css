@@ -1,0 +1,17 @@
+.log {
+  padding: 10px 2px;
+}
+.log > a {
+  text-decoration: none;
+}
+.log > a > button {
+  border: none;
+  cursor: pointer;
+  background-color: rgb(57, 160, 228);
+  border-radius: 6px;
+  padding: 4px 6px;
+  color: rgb(235, 235, 245);
+}
+.log > a > button:hover {
+  background-color: rgb(164, 199, 223);
+}/*# sourceMappingURL=style.css.map */
